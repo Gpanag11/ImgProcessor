@@ -1,0 +1,16 @@
+Required Libraries:
+
+dill~=0.3.6
+matplotlib~=3.7.1
+numpy~=1.24.2
+Pillow~=9.4.0
+scikit-learn~=1.2.1
+tensorboard~=2.12.0
+torch~=1.13.1
+torchvision~=0.14.1
+tqdm~=4.65.0
+
+An Image Dataset:
+User will need a set of images to process with these scripts.
+The images should be in a format compatible with the PIL library (like JPEG or PNG).
+User should organize the images in a directory (and subdirectories, if needed) which the scripts will access.
